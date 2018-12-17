@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1544658344 source:c:\users\daria\onedrive\desktop\dividezero\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1544732708 source:c:\users\daria\onedrive\desktop\codeblock works\dividezero\main.c
+	<stdio.h>
+	<stdlib.h>
+
